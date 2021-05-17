@@ -1,0 +1,15 @@
+1;ursul pacalit de vulpe;ok;ion creanga
+2;capra cu 3 iezi;ok;ion creanga
+3;soacra cu 3 nurori;ok;ion creanga
+4;amintiri din copilarie;ok;ion creanga
+5;ion;ok;liviu rebreanu
+6;baltagul;ok;mihail sadoveanu
+7;fratii jderi;ok;mihail sadoveanu
+8;maitreyi;ok;mircea eliade
+9;romanul adolescentului miop;ok;mircea eliade
+10;moara cu nororc;ok;ioan slavici
+11;padurea spanzuratilor;ok;liviu rebreanu
+12;punguta cu 2 bani;ok;ion creanga
+13;ceva;ok;liviu rebreanu
+14;a;a;a
+15;c;c;c

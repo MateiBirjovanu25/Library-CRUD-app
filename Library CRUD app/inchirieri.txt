@@ -1,0 +1,21 @@
+1;ursul pacalit de vulpe;ok;ion creanga---1;ionel;4444444444444---False
+2;capra cu 3 iezi;ok;ion creanga---1;ionel;4444444444444---False
+3;soacra cu 3 nurori;ok;ion creanga---1;ionel;4444444444444---False
+4;amintiri din copilarie;ok;ion creanga---2;stefanel;4444444444444---True
+1;ursul pacalit de vulpe;ok;ion creanga---2;stefanel;4444444444444---False
+3;soacra cu 3 nurori;ok;ion creanga---1;ionel;4444444444444---False
+5;ion;ok;liviu rebreanu---1;ionel;4444444444444---False
+6;baltagul;ok;mihail sadoveanu---1;ionel;4444444444444---True
+2;capra cu 3 iezi;ok;ion creanga---3;tudorel;4444444444444---False
+7;fratii jderi;ok;mihail sadoveanu---4;dorel;4444444444444---True
+1;ursul pacalit de vulpe;ok;ion creanga---5;costel;4444444444444---False
+8;maitreyi;ok;mircea eliade---6;vasile;4444444444444---True
+10;moara cu nororc;ok;ioan slavici---9;david;2222222222222---True
+1;ursul pacalit de vulpe;ok;ion creanga---7;paul;5555555555555---True
+3;soacra cu 3 nurori;ok;ion creanga---8;vlad;8888888888888---False
+9;romanul adolescentului miop;ok;mircea eliade---6;vasile;4444444444444---True
+11;padurea spanzuratilor;ok;liviu rebreanu---10;andrei;2222222222222---True
+13;ceva;ok;liviu rebreanu---1;ionel;4444444444444---True
+2;capra cu 3 iezi;ok;ion creanga---11;vlad;1111111111111---True
+3;soacra cu 3 nurori;ok;ion creanga---11;vlad;1111111111111---True
+14;a;a;a---8;vlad;8888888888888---True
